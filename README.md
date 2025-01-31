@@ -1,0 +1,1 @@
+This repository contains a simple C program that demonstrates an unexpected behavior when using pointers. The program showcases how modifying the value pointed to by a pointer affects the original variable's value. The solution file offers a corrected approach and explains the underlying issue.
